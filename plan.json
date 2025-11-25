@@ -17,7 +17,24 @@
           "calorias": 80,
           "nivel": "medio",
           "tipo": "fuerza",
-          "musculos": ["cuadriceps","gluteos"]
+          "musculos": ["cuadriceps", "gluteos"]
+        }
+      ]
+    },
+    {
+      "nombre": "Pecho y Brazos",
+      "dia": "martes",
+      "colorHex": "#64B5F6",
+      "createdAt": "2025-01-04T12:00:00Z",
+      "ejercicios": [
+        {
+          "nombre": "Flexiones",
+          "repeticiones": 20,
+          "duracionMin": 5,
+          "calorias": 50,
+          "nivel": "facil",
+          "tipo": "fuerza",
+          "musculos": ["pecho", "tríceps"]
         }
       ]
     }
