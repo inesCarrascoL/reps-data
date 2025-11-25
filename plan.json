@@ -1,0 +1,25 @@
+{
+  "usuario": {
+    "nombre": "Claudia",
+    "edad": 21
+  },
+  "rutinas": [
+    {
+      "nombre": "Piernas y Cardio",
+      "dia": "lunes",
+      "colorHex": "#E57373",
+      "createdAt": "2025-01-04T12:00:00Z",
+      "ejercicios": [
+        {
+          "nombre": "Sentadillas",
+          "repeticiones": 15,
+          "duracionMin": 10,
+          "calorias": 80,
+          "nivel": "medio",
+          "tipo": "fuerza",
+          "musculos": ["cuadriceps","gluteos"]
+        }
+      ]
+    }
+  ]
+}
