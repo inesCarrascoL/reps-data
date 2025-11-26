@@ -18,7 +18,7 @@
           "calorias": 80,
           "nivel": "medio",
           "tipo": "fuerza",
-          "musculos": ["cuadriceps", "gluteos"],
+          "musculos": ["piernas", "gluteos"],
           "estado": "planificado"
         },
         {
@@ -28,7 +28,7 @@
           "calorias": 60,
           "nivel": "medio",
           "tipo": "fuerza",
-          "musculos": ["gluteos", "isquios"],
+          "musculos": ["piernas", "gluteos"],
           "estado": "planificado"
         },
         {
@@ -38,7 +38,7 @@
           "calorias": 70,
           "nivel": "medio",
           "tipo": "fuerza",
-          "musculos": ["gluteos", "isquios"],
+          "musculos": ["gluteos"],
           "estado": "planificado"
         },
         {
@@ -48,7 +48,7 @@
           "calorias": 50,
           "nivel": "facil",
           "tipo": "fuerza",
-          "musculos": ["gluteos", "abductores"],
+          "musculos": ["gluteos", "piernas"],
           "estado": "planificado"
         }
       ]
@@ -67,7 +67,7 @@
           "calorias": 50,
           "nivel": "facil",
           "tipo": "fuerza",
-          "musculos": ["pecho", "triceps"],
+          "musculos": ["pecho", "brazos"],
           "estado": "planificado"
         },
         {
@@ -77,7 +77,7 @@
           "calorias": 40,
           "nivel": "facil",
           "tipo": "fuerza",
-          "musculos": ["triceps"],
+          "musculos": ["brazos"],
           "estado": "planificado"
         },
         {
@@ -97,7 +97,7 @@
           "calorias": 35,
           "nivel": "facil",
           "tipo": "fuerza",
-          "musculos": ["biceps"],
+          "musculos": ["brazos"],
           "estado": "planificado"
         }
       ]
@@ -116,7 +116,7 @@
           "calorias": 30,
           "nivel": "facil",
           "tipo": "fuerza",
-          "musculos": ["espalda baja"],
+          "musculos": ["espalda"],
           "estado": "planificado"
         },
         {
@@ -126,7 +126,7 @@
           "calorias": 40,
           "nivel": "medio",
           "tipo": "core",
-          "musculos": ["abdominales"],
+          "musculos": ["core"],
           "estado": "planificado"
         },
         {
@@ -146,7 +146,7 @@
           "calorias": 35,
           "nivel": "medio",
           "tipo": "core",
-          "musculos": ["abdominales bajos"],
+          "musculos": ["core"],
           "estado": "planificado"
         }
       ]
@@ -175,7 +175,7 @@
           "calorias": 80,
           "nivel": "medio",
           "tipo": "cardio",
-          "musculos": ["full body"],
+          "musculos": ["fullbody"],
           "estado": "planificado"
         },
         {
@@ -214,7 +214,7 @@
           "calorias": 90,
           "nivel": "dificil",
           "tipo": "hiit",
-          "musculos": ["full body"],
+          "musculos": ["fullbody"],
           "estado": "planificado"
         },
         {
@@ -234,7 +234,7 @@
           "calorias": 45,
           "nivel": "facil",
           "tipo": "hiit",
-          "musculos": ["full body"],
+          "musculos": ["fullbody"],
           "estado": "planificado"
         },
         {
@@ -273,7 +273,7 @@
           "calorias": 30,
           "nivel": "facil",
           "tipo": "movilidad",
-          "musculos": ["aductores"],
+          "musculos": ["piernas"],
           "estado": "planificado"
         },
         {
@@ -293,7 +293,7 @@
           "calorias": 40,
           "nivel": "facil",
           "tipo": "fuerza",
-          "musculos": ["abductores"],
+          "musculos": ["piernas"],
           "estado": "planificado"
         }
       ]
@@ -312,7 +312,7 @@
           "calorias": 40,
           "nivel": "facil",
           "tipo": "yoga",
-          "musculos": ["cuerpo completo"],
+          "musculos": ["movilidad"],
           "estado": "planificado"
         },
         {
@@ -322,7 +322,7 @@
           "calorias": 20,
           "nivel": "facil",
           "tipo": "movilidad",
-          "musculos": ["espalda baja"],
+          "musculos": ["espalda"],
           "estado": "planificado"
         },
         {
@@ -332,7 +332,7 @@
           "calorias": 15,
           "nivel": "facil",
           "tipo": "yoga",
-          "musculos": ["espalda", "isquios"],
+          "musculos": ["espalda", "piernas"],
           "estado": "planificado"
         },
         {
@@ -342,7 +342,7 @@
           "calorias": 10,
           "nivel": "facil",
           "tipo": "yoga",
-          "musculos": ["espalda", "caderas"],
+          "musculos": ["espalda", "core"],
           "estado": "planificado"
         }
       ]
