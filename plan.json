@@ -4,6 +4,7 @@
     "edad": 0
   },
   "rutinas": [
+
     {
       "nombre": "Piernas y Glúteo Fuerte",
       "dia": "lunes",
@@ -28,6 +29,26 @@
           "nivel": "medio",
           "tipo": "fuerza",
           "musculos": ["gluteos", "isquios"],
+          "estado": "planificado"
+        },
+        {
+          "nombre": "Hip Thrust",
+          "repeticiones": 12,
+          "duracionMin": 8,
+          "calorias": 70,
+          "nivel": "medio",
+          "tipo": "fuerza",
+          "musculos": ["gluteos", "isquios"],
+          "estado": "planificado"
+        },
+        {
+          "nombre": "Apertura de glúteos máquina",
+          "repeticiones": 15,
+          "duracionMin": 6,
+          "calorias": 50,
+          "nivel": "facil",
+          "tipo": "fuerza",
+          "musculos": ["gluteos", "abductores"],
           "estado": "planificado"
         }
       ]
@@ -58,6 +79,26 @@
           "tipo": "fuerza",
           "musculos": ["triceps"],
           "estado": "planificado"
+        },
+        {
+          "nombre": "Aperturas de pecho",
+          "repeticiones": 12,
+          "duracionMin": 6,
+          "calorias": 55,
+          "nivel": "medio",
+          "tipo": "fuerza",
+          "musculos": ["pecho"],
+          "estado": "planificado"
+        },
+        {
+          "nombre": "Curl de bíceps",
+          "repeticiones": 15,
+          "duracionMin": 5,
+          "calorias": 35,
+          "nivel": "facil",
+          "tipo": "fuerza",
+          "musculos": ["biceps"],
+          "estado": "planificado"
         }
       ]
     },
@@ -86,6 +127,26 @@
           "nivel": "medio",
           "tipo": "core",
           "musculos": ["abdominales"],
+          "estado": "planificado"
+        },
+        {
+          "nombre": "Remo con banda",
+          "repeticiones": 15,
+          "duracionMin": 5,
+          "calorias": 45,
+          "nivel": "facil",
+          "tipo": "fuerza",
+          "musculos": ["espalda"],
+          "estado": "planificado"
+        },
+        {
+          "nombre": "Elevaciones de pierna",
+          "repeticiones": 12,
+          "duracionMin": 4,
+          "calorias": 35,
+          "nivel": "medio",
+          "tipo": "core",
+          "musculos": ["abdominales bajos"],
           "estado": "planificado"
         }
       ]
@@ -116,6 +177,26 @@
           "tipo": "cardio",
           "musculos": ["full body"],
           "estado": "planificado"
+        },
+        {
+          "nombre": "Skipping",
+          "repeticiones": 3,
+          "duracionMin": 3,
+          "calorias": 50,
+          "nivel": "facil",
+          "tipo": "cardio",
+          "musculos": ["piernas", "core"],
+          "estado": "planificado"
+        },
+        {
+          "nombre": "Rodillas arriba",
+          "repeticiones": 3,
+          "duracionMin": 3,
+          "calorias": 55,
+          "nivel": "medio",
+          "tipo": "cardio",
+          "musculos": ["core", "piernas"],
+          "estado": "planificado"
         }
       ]
     },
@@ -144,6 +225,26 @@
           "nivel": "medio",
           "tipo": "hiit",
           "musculos": ["core"],
+          "estado": "planificado"
+        },
+        {
+          "nombre": "Jumping Jacks",
+          "repeticiones": 25,
+          "duracionMin": 3,
+          "calorias": 45,
+          "nivel": "facil",
+          "tipo": "hiit",
+          "musculos": ["full body"],
+          "estado": "planificado"
+        },
+        {
+          "nombre": "Sprint en sitio",
+          "repeticiones": 1,
+          "duracionMin": 1,
+          "calorias": 35,
+          "nivel": "medio",
+          "tipo": "hiit",
+          "musculos": ["piernas", "core"],
           "estado": "planificado"
         }
       ]
@@ -174,6 +275,26 @@
           "tipo": "movilidad",
           "musculos": ["aductores"],
           "estado": "planificado"
+        },
+        {
+          "nombre": "Patada de glúteo",
+          "repeticiones": 15,
+          "duracionMin": 5,
+          "calorias": 50,
+          "nivel": "medio",
+          "tipo": "fuerza",
+          "musculos": ["gluteos"],
+          "estado": "planificado"
+        },
+        {
+          "nombre": "Elevaciones laterales pierna",
+          "repeticiones": 15,
+          "duracionMin": 4,
+          "calorias": 40,
+          "nivel": "facil",
+          "tipo": "fuerza",
+          "musculos": ["abductores"],
+          "estado": "planificado"
         }
       ]
     },
@@ -203,8 +324,29 @@
           "tipo": "movilidad",
           "musculos": ["espalda baja"],
           "estado": "planificado"
+        },
+        {
+          "nombre": "Perro boca abajo",
+          "repeticiones": 2,
+          "duracionMin": 4,
+          "calorias": 15,
+          "nivel": "facil",
+          "tipo": "yoga",
+          "musculos": ["espalda", "isquios"],
+          "estado": "planificado"
+        },
+        {
+          "nombre": "Postura del niño",
+          "repeticiones": 1,
+          "duracionMin": 3,
+          "calorias": 10,
+          "nivel": "facil",
+          "tipo": "yoga",
+          "musculos": ["espalda", "caderas"],
+          "estado": "planificado"
         }
       ]
     }
+
   ]
 }
