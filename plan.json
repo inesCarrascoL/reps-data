@@ -4,7 +4,6 @@
     "edad": 0
   },
   "rutinas": [
-
     {
       "nombre": "Piernas y Glúteo Fuerte",
       "dia": "lunes",
@@ -207,6 +206,5 @@
         }
       ]
     }
-
   ]
 }
