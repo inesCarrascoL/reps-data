@@ -17,7 +17,8 @@
           "calorias": 80,
           "nivel": "medio",
           "tipo": "fuerza",
-          "musculos": ["cuadriceps", "gluteos"]
+          "musculos": ["cuadriceps", "gluteos"],
+          "estado": "planificado"
         }
       ]
     },
@@ -34,7 +35,8 @@
           "calorias": 50,
           "nivel": "facil",
           "tipo": "fuerza",
-          "musculos": ["pecho", "triceps"]
+          "musculos": ["pecho", "triceps"],
+          "estado": "planificado"
         }
       ]
     }
