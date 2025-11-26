@@ -1,14 +1,15 @@
 {
   "usuario": {
-    "nombre": "Claudia",
-    "edad": 21
+    "nombre": "Usuario",
+    "edad": 0
   },
   "rutinas": [
+
     {
-      "nombre": "Piernas y Cardio",
+      "nombre": "Piernas y Glúteo Fuerte",
       "dia": "lunes",
       "colorHex": "#E57373",
-      "createdAt": "2025-01-04T12:00:00Z",
+      "createdAt": "2025-01-01T12:00:00Z",
       "ejercicios": [
         {
           "nombre": "Sentadillas",
@@ -19,14 +20,25 @@
           "tipo": "fuerza",
           "musculos": ["cuadriceps", "gluteos"],
           "estado": "planificado"
+        },
+        {
+          "nombre": "Zancadas",
+          "repeticiones": 12,
+          "duracionMin": 8,
+          "calorias": 60,
+          "nivel": "medio",
+          "tipo": "fuerza",
+          "musculos": ["gluteos", "isquios"],
+          "estado": "planificado"
         }
       ]
     },
+
     {
       "nombre": "Pecho y Brazos",
       "dia": "martes",
       "colorHex": "#64B5F6",
-      "createdAt": "2025-01-04T12:00:00Z",
+      "createdAt": "2025-01-01T12:00:00Z",
       "ejercicios": [
         {
           "nombre": "Flexiones",
@@ -37,8 +49,164 @@
           "tipo": "fuerza",
           "musculos": ["pecho", "triceps"],
           "estado": "planificado"
+        },
+        {
+          "nombre": "Fondos en silla",
+          "repeticiones": 15,
+          "duracionMin": 5,
+          "calorias": 40,
+          "nivel": "facil",
+          "tipo": "fuerza",
+          "musculos": ["triceps"],
+          "estado": "planificado"
+        }
+      ]
+    },
+
+    {
+      "nombre": "Espalda + Core",
+      "dia": "miercoles",
+      "colorHex": "#81C784",
+      "createdAt": "2025-01-01T12:00:00Z",
+      "ejercicios": [
+        {
+          "nombre": "Superman Hold",
+          "repeticiones": 3,
+          "duracionMin": 3,
+          "calorias": 30,
+          "nivel": "facil",
+          "tipo": "fuerza",
+          "musculos": ["espalda baja"],
+          "estado": "planificado"
+        },
+        {
+          "nombre": "Plancha",
+          "repeticiones": 3,
+          "duracionMin": 3,
+          "calorias": 40,
+          "nivel": "medio",
+          "tipo": "core",
+          "musculos": ["abdominales"],
+          "estado": "planificado"
+        }
+      ]
+    },
+
+    {
+      "nombre": "Día de Cardio",
+      "dia": "jueves",
+      "colorHex": "#4FC3F7",
+      "createdAt": "2025-01-01T12:00:00Z",
+      "ejercicios": [
+        {
+          "nombre": "Walking rápido",
+          "repeticiones": 1,
+          "duracionMin": 20,
+          "calorias": 120,
+          "nivel": "facil",
+          "tipo": "cardio",
+          "musculos": ["piernas"],
+          "estado": "planificado"
+        },
+        {
+          "nombre": "Saltar a la comba",
+          "repeticiones": 2,
+          "duracionMin": 5,
+          "calorias": 80,
+          "nivel": "medio",
+          "tipo": "cardio",
+          "musculos": ["full body"],
+          "estado": "planificado"
+        }
+      ]
+    },
+
+    {
+      "nombre": "HIIT Express 🔥",
+      "dia": "viernes",
+      "colorHex": "#FFB74D",
+      "createdAt": "2025-01-01T12:00:00Z",
+      "ejercicios": [
+        {
+          "nombre": "Burpees",
+          "repeticiones": 12,
+          "duracionMin": 5,
+          "calorias": 90,
+          "nivel": "dificil",
+          "tipo": "hiit",
+          "musculos": ["full body"],
+          "estado": "planificado"
+        },
+        {
+          "nombre": "Mountain Climbers",
+          "repeticiones": 30,
+          "duracionMin": 4,
+          "calorias": 70,
+          "nivel": "medio",
+          "tipo": "hiit",
+          "musculos": ["core"],
+          "estado": "planificado"
+        }
+      ]
+    },
+
+    {
+      "nombre": "Glúteo + Aductores",
+      "dia": "sabado",
+      "colorHex": "#BA68C8",
+      "createdAt": "2025-01-01T12:00:00Z",
+      "ejercicios": [
+        {
+          "nombre": "Puente de glúteo",
+          "repeticiones": 20,
+          "duracionMin": 5,
+          "calorias": 45,
+          "nivel": "facil",
+          "tipo": "fuerza",
+          "musculos": ["gluteos"],
+          "estado": "planificado"
+        },
+        {
+          "nombre": "Apertura de piernas en suelo",
+          "repeticiones": 15,
+          "duracionMin": 4,
+          "calorias": 30,
+          "nivel": "facil",
+          "tipo": "movilidad",
+          "musculos": ["aductores"],
+          "estado": "planificado"
+        }
+      ]
+    },
+
+    {
+      "nombre": "Yoga Stretch",
+      "dia": "domingo",
+      "colorHex": "#90A4AE",
+      "createdAt": "2025-01-01T12:00:00Z",
+      "ejercicios": [
+        {
+          "nombre": "Saludo al sol",
+          "repeticiones": 3,
+          "duracionMin": 8,
+          "calorias": 40,
+          "nivel": "facil",
+          "tipo": "yoga",
+          "musculos": ["cuerpo completo"],
+          "estado": "planificado"
+        },
+        {
+          "nombre": "Estiramiento lumbar",
+          "repeticiones": 2,
+          "duracionMin": 5,
+          "calorias": 20,
+          "nivel": "facil",
+          "tipo": "movilidad",
+          "musculos": ["espalda baja"],
+          "estado": "planificado"
         }
       ]
     }
+
   ]
 }
