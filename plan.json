@@ -18,7 +18,7 @@
           "calorias": 80,
           "nivel": "medio",
           "tipo": "fuerza",
-          "musculos": ["piernas", "gluteos"],
+          "musculos": ["cuadriceps", "gluteos"],
           "estado": "planificado"
         },
         {
@@ -28,7 +28,7 @@
           "calorias": 60,
           "nivel": "medio",
           "tipo": "fuerza",
-          "musculos": ["piernas", "gluteos"],
+          "musculos": ["cuadriceps", "isquios", "gluteos"],
           "estado": "planificado"
         },
         {
@@ -48,7 +48,7 @@
           "calorias": 50,
           "nivel": "facil",
           "tipo": "fuerza",
-          "musculos": ["gluteos", "piernas"],
+          "musculos": ["gluteos", "abductores"],
           "estado": "planificado"
         }
       ]
@@ -67,7 +67,7 @@
           "calorias": 50,
           "nivel": "facil",
           "tipo": "fuerza",
-          "musculos": ["pecho", "brazos"],
+          "musculos": ["pecho", "triceps"],
           "estado": "planificado"
         },
         {
@@ -77,7 +77,7 @@
           "calorias": 40,
           "nivel": "facil",
           "tipo": "fuerza",
-          "musculos": ["brazos"],
+          "musculos": ["triceps"],
           "estado": "planificado"
         },
         {
@@ -97,7 +97,7 @@
           "calorias": 35,
           "nivel": "facil",
           "tipo": "fuerza",
-          "musculos": ["brazos"],
+          "musculos": ["biceps"],
           "estado": "planificado"
         }
       ]
@@ -273,7 +273,7 @@
           "calorias": 30,
           "nivel": "facil",
           "tipo": "movilidad",
-          "musculos": ["piernas"],
+          "musculos": ["aductores"],
           "estado": "planificado"
         },
         {
@@ -293,7 +293,7 @@
           "calorias": 40,
           "nivel": "facil",
           "tipo": "fuerza",
-          "musculos": ["piernas"],
+          "musculos": ["abductores"],
           "estado": "planificado"
         }
       ]
