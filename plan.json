@@ -99,6 +99,26 @@
           "tipo": "fuerza",
           "musculos": ["biceps"],
           "estado": "planificado"
+        },
+        {
+          "nombre": "Elevación frontal",
+          "repeticiones": 12,
+          "duracionMin": 5,
+          "calorias": 35,
+          "nivel": "facil",
+          "tipo": "fuerza",
+          "musculos": ["hombros", "hombros frontales"],
+          "estado": "planificado"
+        },
+        {
+          "nombre": "Press militar",
+          "repeticiones": 10,
+          "duracionMin": 6,
+          "calorias": 45,
+          "nivel": "medio",
+          "tipo": "fuerza",
+          "musculos": ["hombros", "deltoides"],
+          "estado": "planificado"
         }
       ]
     },
@@ -147,6 +167,16 @@
           "nivel": "medio",
           "tipo": "core",
           "musculos": ["core"],
+          "estado": "planificado"
+        },
+        {
+          "nombre": "Pájaros posteriores",
+          "repeticiones": 12,
+          "duracionMin": 5,
+          "calorias": 40,
+          "nivel": "medio",
+          "tipo": "fuerza",
+          "musculos": ["hombros posteriores", "deltoides"],
           "estado": "planificado"
         }
       ]
@@ -246,6 +276,16 @@
           "tipo": "hiit",
           "musculos": ["piernas", "core"],
           "estado": "planificado"
+        },
+        {
+          "nombre": "Elevaciones laterales",
+          "repeticiones": 15,
+          "duracionMin": 4,
+          "calorias": 35,
+          "nivel": "facil",
+          "tipo": "hiit",
+          "musculos": ["hombros", "hombros laterales"],
+          "estado": "planificado"
         }
       ]
     },
@@ -343,6 +383,16 @@
           "nivel": "facil",
           "tipo": "yoga",
           "musculos": ["espalda", "core"],
+          "estado": "planificado"
+        },
+        {
+          "nombre": "Rotación de hombros",
+          "repeticiones": 2,
+          "duracionMin": 3,
+          "calorias": 15,
+          "nivel": "facil",
+          "tipo": "movilidad",
+          "musculos": ["hombros"],
           "estado": "planificado"
         }
       ]
