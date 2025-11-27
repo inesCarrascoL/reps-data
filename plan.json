@@ -4,10 +4,8 @@
     "edad": 0
   },
   "rutinas": [
-
     {
       "nombre": "Piernas y Glúteo Fuerte",
-      "dia": "lunes",
       "colorHex": "#E57373",
       "createdAt": "2025-01-01T12:00:00Z",
       "ejercicios": [
@@ -56,7 +54,6 @@
 
     {
       "nombre": "Pecho y Brazos",
-      "dia": "martes",
       "colorHex": "#64B5F6",
       "createdAt": "2025-01-01T12:00:00Z",
       "ejercicios": [
@@ -125,7 +122,6 @@
 
     {
       "nombre": "Espalda + Core",
-      "dia": "miercoles",
       "colorHex": "#81C784",
       "createdAt": "2025-01-01T12:00:00Z",
       "ejercicios": [
@@ -180,223 +176,6 @@
           "estado": "planificado"
         }
       ]
-    },
-
-    {
-      "nombre": "Día de Cardio",
-      "dia": "jueves",
-      "colorHex": "#4FC3F7",
-      "createdAt": "2025-01-01T12:00:00Z",
-      "ejercicios": [
-        {
-          "nombre": "Walking rápido",
-          "repeticiones": 1,
-          "duracionMin": 20,
-          "calorias": 120,
-          "nivel": "facil",
-          "tipo": "cardio",
-          "musculos": ["piernas"],
-          "estado": "planificado"
-        },
-        {
-          "nombre": "Saltar a la comba",
-          "repeticiones": 2,
-          "duracionMin": 5,
-          "calorias": 80,
-          "nivel": "medio",
-          "tipo": "cardio",
-          "musculos": ["fullbody"],
-          "estado": "planificado"
-        },
-        {
-          "nombre": "Skipping",
-          "repeticiones": 3,
-          "duracionMin": 3,
-          "calorias": 50,
-          "nivel": "facil",
-          "tipo": "cardio",
-          "musculos": ["piernas", "core"],
-          "estado": "planificado"
-        },
-        {
-          "nombre": "Rodillas arriba",
-          "repeticiones": 3,
-          "duracionMin": 3,
-          "calorias": 55,
-          "nivel": "medio",
-          "tipo": "cardio",
-          "musculos": ["core", "piernas"],
-          "estado": "planificado"
-        }
-      ]
-    },
-
-    {
-      "nombre": "HIIT Express 🔥",
-      "dia": "viernes",
-      "colorHex": "#FFB74D",
-      "createdAt": "2025-01-01T12:00:00Z",
-      "ejercicios": [
-        {
-          "nombre": "Burpees",
-          "repeticiones": 12,
-          "duracionMin": 5,
-          "calorias": 90,
-          "nivel": "dificil",
-          "tipo": "hiit",
-          "musculos": ["fullbody"],
-          "estado": "planificado"
-        },
-        {
-          "nombre": "Mountain Climbers",
-          "repeticiones": 30,
-          "duracionMin": 4,
-          "calorias": 70,
-          "nivel": "medio",
-          "tipo": "hiit",
-          "musculos": ["core"],
-          "estado": "planificado"
-        },
-        {
-          "nombre": "Jumping Jacks",
-          "repeticiones": 25,
-          "duracionMin": 3,
-          "calorias": 45,
-          "nivel": "facil",
-          "tipo": "hiit",
-          "musculos": ["fullbody"],
-          "estado": "planificado"
-        },
-        {
-          "nombre": "Sprint en sitio",
-          "repeticiones": 1,
-          "duracionMin": 1,
-          "calorias": 35,
-          "nivel": "medio",
-          "tipo": "hiit",
-          "musculos": ["piernas", "core"],
-          "estado": "planificado"
-        },
-        {
-          "nombre": "Elevaciones laterales",
-          "repeticiones": 15,
-          "duracionMin": 4,
-          "calorias": 35,
-          "nivel": "facil",
-          "tipo": "hiit",
-          "musculos": ["hombros", "hombros laterales"],
-          "estado": "planificado"
-        }
-      ]
-    },
-
-    {
-      "nombre": "Glúteo + Aductores",
-      "dia": "sabado",
-      "colorHex": "#BA68C8",
-      "createdAt": "2025-01-01T12:00:00Z",
-      "ejercicios": [
-        {
-          "nombre": "Puente de glúteo",
-          "repeticiones": 20,
-          "duracionMin": 5,
-          "calorias": 45,
-          "nivel": "facil",
-          "tipo": "fuerza",
-          "musculos": ["gluteos"],
-          "estado": "planificado"
-        },
-        {
-          "nombre": "Apertura de piernas en suelo",
-          "repeticiones": 15,
-          "duracionMin": 4,
-          "calorias": 30,
-          "nivel": "facil",
-          "tipo": "movilidad",
-          "musculos": ["aductores"],
-          "estado": "planificado"
-        },
-        {
-          "nombre": "Patada de glúteo",
-          "repeticiones": 15,
-          "duracionMin": 5,
-          "calorias": 50,
-          "nivel": "medio",
-          "tipo": "fuerza",
-          "musculos": ["gluteos"],
-          "estado": "planificado"
-        },
-        {
-          "nombre": "Elevaciones laterales pierna",
-          "repeticiones": 15,
-          "duracionMin": 4,
-          "calorias": 40,
-          "nivel": "facil",
-          "tipo": "fuerza",
-          "musculos": ["abductores"],
-          "estado": "planificado"
-        }
-      ]
-    },
-
-    {
-      "nombre": "Yoga Stretch",
-      "dia": "domingo",
-      "colorHex": "#90A4AE",
-      "createdAt": "2025-01-01T12:00:00Z",
-      "ejercicios": [
-        {
-          "nombre": "Saludo al sol",
-          "repeticiones": 3,
-          "duracionMin": 8,
-          "calorias": 40,
-          "nivel": "facil",
-          "tipo": "yoga",
-          "musculos": ["movilidad"],
-          "estado": "planificado"
-        },
-        {
-          "nombre": "Estiramiento lumbar",
-          "repeticiones": 2,
-          "duracionMin": 5,
-          "calorias": 20,
-          "nivel": "facil",
-          "tipo": "movilidad",
-          "musculos": ["espalda"],
-          "estado": "planificado"
-        },
-        {
-          "nombre": "Perro boca abajo",
-          "repeticiones": 2,
-          "duracionMin": 4,
-          "calorias": 15,
-          "nivel": "facil",
-          "tipo": "yoga",
-          "musculos": ["espalda", "piernas"],
-          "estado": "planificado"
-        },
-        {
-          "nombre": "Postura del niño",
-          "repeticiones": 1,
-          "duracionMin": 3,
-          "calorias": 10,
-          "nivel": "facil",
-          "tipo": "yoga",
-          "musculos": ["espalda", "core"],
-          "estado": "planificado"
-        },
-        {
-          "nombre": "Rotación de hombros",
-          "repeticiones": 2,
-          "duracionMin": 3,
-          "calorias": 15,
-          "nivel": "facil",
-          "tipo": "movilidad",
-          "musculos": ["hombros"],
-          "estado": "planificado"
-        }
-      ]
     }
-
   ]
 }
