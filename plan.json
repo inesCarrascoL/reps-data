@@ -4,7 +4,9 @@
     "edad": 0
   },
   "rutinas": [
+
     {
+      "id": "00000000-0000-0000-0000-000000000001",
       "nombre": "Piernas y Glúteo Fuerte",
       "colorHex": "#E57373",
       "createdAt": "2025-01-01T12:00:00Z",
@@ -53,6 +55,7 @@
     },
 
     {
+      "id": "00000000-0000-0000-0000-000000000002",
       "nombre": "Pecho y Brazos",
       "colorHex": "#64B5F6",
       "createdAt": "2025-01-01T12:00:00Z",
@@ -76,51 +79,12 @@
           "tipo": "fuerza",
           "musculos": ["triceps"],
           "estado": "planificado"
-        },
-        {
-          "nombre": "Aperturas de pecho",
-          "repeticiones": 12,
-          "duracionMin": 6,
-          "calorias": 55,
-          "nivel": "medio",
-          "tipo": "fuerza",
-          "musculos": ["pecho"],
-          "estado": "planificado"
-        },
-        {
-          "nombre": "Curl de bíceps",
-          "repeticiones": 15,
-          "duracionMin": 5,
-          "calorias": 35,
-          "nivel": "facil",
-          "tipo": "fuerza",
-          "musculos": ["biceps"],
-          "estado": "planificado"
-        },
-        {
-          "nombre": "Elevación frontal",
-          "repeticiones": 12,
-          "duracionMin": 5,
-          "calorias": 35,
-          "nivel": "facil",
-          "tipo": "fuerza",
-          "musculos": ["hombros", "hombros frontales"],
-          "estado": "planificado"
-        },
-        {
-          "nombre": "Press militar",
-          "repeticiones": 10,
-          "duracionMin": 6,
-          "calorias": 45,
-          "nivel": "medio",
-          "tipo": "fuerza",
-          "musculos": ["hombros", "deltoides"],
-          "estado": "planificado"
         }
       ]
     },
 
     {
+      "id": "00000000-0000-0000-0000-000000000003",
       "nombre": "Espalda + Core",
       "colorHex": "#81C784",
       "createdAt": "2025-01-01T12:00:00Z",
@@ -134,45 +98,24 @@
           "tipo": "fuerza",
           "musculos": ["espalda"],
           "estado": "planificado"
-        },
+        }
+      ]
+    },
+
+    {
+      "id": "00000000-0000-0000-0000-000000000004",
+      "nombre": "HIIT Express 🔥",
+      "colorHex": "#FFB74D",
+      "createdAt": "2025-01-01T12:00:00Z",
+      "ejercicios": [
         {
-          "nombre": "Plancha",
-          "repeticiones": 3,
-          "duracionMin": 3,
-          "calorias": 40,
-          "nivel": "medio",
-          "tipo": "core",
-          "musculos": ["core"],
-          "estado": "planificado"
-        },
-        {
-          "nombre": "Remo con banda",
-          "repeticiones": 15,
-          "duracionMin": 5,
-          "calorias": 45,
-          "nivel": "facil",
-          "tipo": "fuerza",
-          "musculos": ["espalda"],
-          "estado": "planificado"
-        },
-        {
-          "nombre": "Elevaciones de pierna",
-          "repeticiones": 12,
-          "duracionMin": 4,
-          "calorias": 35,
-          "nivel": "medio",
-          "tipo": "core",
-          "musculos": ["core"],
-          "estado": "planificado"
-        },
-        {
-          "nombre": "Pájaros posteriores",
+          "nombre": "Burpees",
           "repeticiones": 12,
           "duracionMin": 5,
-          "calorias": 40,
-          "nivel": "medio",
-          "tipo": "fuerza",
-          "musculos": ["hombros posteriores", "deltoides"],
+          "calorias": 90,
+          "nivel": "dificil",
+          "tipo": "hiit",
+          "musculos": ["fullbody"],
           "estado": "planificado"
         }
       ]
