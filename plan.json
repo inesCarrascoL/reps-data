@@ -5,278 +5,278 @@
   },
   "rutinas": [
     {
-      "id": "00000000-0000-0000-0000-000000000001",
+      "id": "0001",
       "nombre": "Pierna Fuerte",
       "colorHex": "#E57373",
       "createdAt": "2025-01-01T12:00:00Z",
-      "estado": "Pendiente",
+      "estado": "Planificada",
       "ejercicios": [
         {
           "id": "sentadilla_barra",
           "nombre": "Sentadilla con barra",
           "repeticiones": "12",
-          "duracionMin": 10,
-          "calorias": 100,
+          "duracionMin": 8,
+          "calorias": 120,
           "tipo": "fuerza",
           "musculos": ["piernas", "gluteos"],
-          "instrucciones": "Mantén la espalda recta, baja hasta 90° y sube empujando con los talones."
+          "instrucciones": "Coloca los pies al ancho de hombros, baja manteniendo la espalda recta y activa glúteos al subir."
         },
         {
           "id": "zancadas",
           "nombre": "Zancadas",
-          "repeticiones": "10 por pierna",
-          "duracionMin": 8,
-          "calorias": 60,
+          "repeticiones": "10",
+          "duracionMin": 6,
+          "calorias": 80,
           "tipo": "fuerza",
           "musculos": ["piernas", "gluteos"],
-          "instrucciones": "Da un paso largo y baja con la rodilla trasera controlada sin tocar el suelo."
+          "instrucciones": "Da un paso largo hacia adelante y baja la rodilla trasera hacia el suelo manteniendo el torso firme."
         },
         {
           "id": "hip_thrust",
           "nombre": "Hip Thrust",
           "repeticiones": "12",
-          "duracionMin": 8,
-          "calorias": 80,
+          "duracionMin": 6,
+          "calorias": 90,
           "tipo": "fuerza",
           "musculos": ["gluteos"],
-          "instrucciones": "Eleva la cadera apretando glúteos en la parte alta del movimiento."
+          "instrucciones": "Eleva la cadera apretando fuerte los glúteos. Mantén la mirada al frente y evita arquear la espalda."
         },
         {
           "id": "curl_femoral",
           "nombre": "Curl femoral",
           "repeticiones": "15",
-          "duracionMin": 6,
-          "calorias": 45,
+          "duracionMin": 5,
+          "calorias": 60,
           "tipo": "fuerza",
           "musculos": ["isquios"],
-          "instrucciones": "Flexiona las piernas manteniendo el abdomen firme y sin arquear la espalda."
+          "instrucciones": "Flexiona la pierna hasta contraer el femoral. Controla la bajada para mayor activación."
         }
       ]
     },
 
     {
-      "id": "00000000-0000-0000-0000-000000000002",
+      "id": "0002",
       "nombre": "Glúteo + Pierna",
       "colorHex": "#FF8A80",
       "createdAt": "2025-01-02T12:00:00Z",
-      "estado": "Pendiente",
+      "estado": "Planificada",
       "ejercicios": [
         {
           "id": "sentadilla_goblet",
           "nombre": "Sentadilla Goblet",
           "repeticiones": "12",
-          "duracionMin": 8,
-          "calorias": 70,
+          "duracionMin": 7,
+          "calorias": 85,
           "tipo": "fuerza",
           "musculos": ["piernas", "gluteos"],
-          "instrucciones": "Sujeta la mancuerna cerca del pecho y baja manteniendo el torso firme."
+          "instrucciones": "Sujeta una mancuerna al pecho y baja con control manteniendo el core activado."
+        },
+        {
+          "id": "apertura_gluteo",
+          "nombre": "Apertura de glúteos (máquina)",
+          "repeticiones": "15",
+          "duracionMin": 5,
+          "calorias": 70,
+          "tipo": "fuerza",
+          "musculos": ["gluteos", "abductores"],
+          "instrucciones": "Abre las piernas resistiendo la carga y aprieta en el punto de máxima apertura."
         },
         {
           "id": "hip_thrust",
           "nombre": "Hip Thrust",
-          "repeticiones": "15",
-          "duracionMin": 8,
-          "calorias": 80,
+          "repeticiones": "12",
+          "duracionMin": 6,
+          "calorias": 90,
           "tipo": "fuerza",
           "musculos": ["gluteos"],
-          "instrucciones": "Eleva la cadera apretando glúteos en la parte alta del movimiento."
-        },
-        {
-          "id": "apertura_gluteo",
-          "nombre": "Apertura de glúteos",
-          "repeticiones": "20",
-          "duracionMin": 5,
-          "calorias": 40,
-          "tipo": "fuerza",
-          "musculos": ["gluteos", "abductores"],
-          "instrucciones": "Abre las piernas contra la resistencia controlando el movimiento."
+          "instrucciones": "Empuja fuerte desde los talones y contrae glúteos al subir."
         },
         {
           "id": "curl_femoral",
           "nombre": "Curl femoral",
-          "repeticiones": "15",
-          "duracionMin": 6,
-          "calorias": 45,
+          "repeticiones": "12",
+          "duracionMin": 5,
+          "calorias": 55,
           "tipo": "fuerza",
           "musculos": ["isquios"],
-          "instrucciones": "Flexiona las piernas manteniendo el abdomen firme."
+          "instrucciones": "Controla la bajada y evita arquear la zona lumbar."
         }
       ]
     },
 
     {
-      "id": "00000000-0000-0000-0000-000000000003",
+      "id": "0003",
       "nombre": "Pecho + Tríceps",
       "colorHex": "#90CAF9",
       "createdAt": "2025-01-03T12:00:00Z",
-      "estado": "Pendiente",
+      "estado": "Planificada",
       "ejercicios": [
         {
           "id": "flexiones",
           "nombre": "Flexiones",
           "repeticiones": "20",
           "duracionMin": 5,
-          "calorias": 50,
+          "calorias": 60,
           "tipo": "fuerza",
           "musculos": ["pecho", "triceps"],
-          "instrucciones": "Mantén el cuerpo alineado y baja hasta casi tocar el suelo."
+          "instrucciones": "Coloca manos bajo los hombros, baja controlado y mantén el cuerpo recto como una tabla."
         },
         {
           "id": "fondos",
-          "nombre": "Fondos en paralelas",
+          "nombre": "Fondos en banco",
           "repeticiones": "12",
           "duracionMin": 5,
-          "calorias": 60,
+          "calorias": 50,
           "tipo": "fuerza",
           "musculos": ["triceps"],
-          "instrucciones": "Baja con control sin encoger los hombros."
+          "instrucciones": "Baja flexionando codos pegados al cuerpo y empuja activando tríceps."
         },
         {
           "id": "press_banca",
-          "nombre": "Press banca",
+          "nombre": "Press de banca",
           "repeticiones": "10",
-          "duracionMin": 6,
-          "calorias": 70,
+          "duracionMin": 8,
+          "calorias": 90,
           "tipo": "fuerza",
           "musculos": ["pecho"],
-          "instrucciones": "Desciende la barra al pecho manteniendo los codos a 45°."
+          "instrucciones": "Baja la barra hasta el pecho manteniendo los codos a 45º."
         },
         {
           "id": "aperturas_mancuernas",
           "nombre": "Aperturas con mancuernas",
           "repeticiones": "12",
-          "duracionMin": 7,
-          "calorias": 55,
+          "duracionMin": 6,
+          "calorias": 65,
           "tipo": "fuerza",
           "musculos": ["pecho"],
-          "instrucciones": "Baja los brazos en arco sin perder la tensión del pecho."
+          "instrucciones": "Abre los brazos sin perder la ligera flexión de codos."
         }
       ]
     },
 
     {
-      "id": "00000000-0000-0000-0000-000000000004",
+      "id": "0004",
       "nombre": "Espalda Completa",
       "colorHex": "#81C784",
       "createdAt": "2025-01-04T12:00:00Z",
-      "estado": "Pendiente",
+      "estado": "Planificada",
       "ejercicios": [
         {
           "id": "peso_muerto",
           "nombre": "Peso muerto",
-          "repeticiones": "8",
+          "repeticiones": "10",
           "duracionMin": 8,
-          "calorias": 90,
+          "calorias": 120,
           "tipo": "fuerza",
-          "musculos": ["espalda baja", "gluteos", "isquios"],
-          "instrucciones": "Mantén la barra pegada al cuerpo y la espalda recta."
+          "musculos": ["espalda", "gluteos"],
+          "instrucciones": "Mantén la barra pegada al cuerpo y baja desde la cadera."
         },
         {
           "id": "jalon_pecho",
           "nombre": "Jalón al pecho",
           "repeticiones": "12",
           "duracionMin": 6,
-          "calorias": 60,
+          "calorias": 70,
           "tipo": "fuerza",
           "musculos": ["espalda"],
-          "instrucciones": "Tira llevando los codos hacia abajo, no hacia atrás."
+          "instrucciones": "Tira llevando los codos hacia abajo sin encoger hombros."
         },
         {
           "id": "remo_mancuerna",
           "nombre": "Remo con mancuerna",
-          "repeticiones": "12 por lado",
-          "duracionMin": 7,
-          "calorias": 55,
+          "repeticiones": "12",
+          "duracionMin": 6,
+          "calorias": 75,
           "tipo": "fuerza",
           "musculos": ["espalda"],
-          "instrucciones": "Lleva el codo hacia el techo sin rotar el torso."
+          "instrucciones": "Lleva la mancuerna hacia la cadera manteniendo el torso estable."
         },
         {
           "id": "superman",
-          "nombre": "Superman Hold",
+          "nombre": "Superman hold",
           "repeticiones": "3",
           "duracionMin": 3,
-          "calorias": 25,
+          "calorias": 40,
           "tipo": "core",
-          "musculos": ["espalda baja"],
-          "instrucciones": "Eleva brazos y piernas manteniendo la contracción."
+          "musculos": ["espalda"],
+          "instrucciones": "Eleva brazos y piernas sin arquear la zona lumbar."
         }
       ]
     },
 
     {
-      "id": "00000000-0000-0000-0000-000000000005",
+      "id": "0005",
       "nombre": "Core de Acero",
       "colorHex": "#FFF176",
       "createdAt": "2025-01-05T12:00:00Z",
-      "estado": "Pendiente",
+      "estado": "Planificada",
       "ejercicios": [
         {
           "id": "plancha",
           "nombre": "Plancha",
-          "repeticiones": "3 x 45s",
-          "duracionMin": 5,
-          "calorias": 20,
+          "repeticiones": "3",
+          "duracionMin": 3,
+          "calorias": 30,
           "tipo": "core",
           "musculos": ["core"],
-          "instrucciones": "Evita hundir la cadera y mantén el abdomen firme."
+          "instrucciones": "Mantén el cuerpo recto activando todo el core."
         },
         {
           "id": "crunch",
-          "nombre": "Crunch",
-          "repeticiones": "20",
-          "duracionMin": 5,
-          "calorias": 25,
+          "nombre": "Crunch abdominal",
+          "repeticiones": "15",
+          "duracionMin": 4,
+          "calorias": 40,
           "tipo": "core",
-          "musculos": ["abdominales"],
-          "instrucciones": "Eleva el torso sin tirar del cuello."
+          "musculos": ["core"],
+          "instrucciones": "Eleva el torso contrayendo el abdomen sin tirar del cuello."
         },
         {
           "id": "elevaciones_piernas",
-          "nombre": "Elevaciones de piernas",
-          "repeticiones": "15",
-          "duracionMin": 6,
-          "calorias": 30,
+          "nombre": "Elevación de piernas",
+          "repeticiones": "12",
+          "duracionMin": 4,
+          "calorias": 45,
           "tipo": "core",
-          "musculos": ["abdominales inferiores"],
-          "instrucciones": "No arquees la espalda baja; controla la bajada."
+          "musculos": ["core"],
+          "instrucciones": "Sube las piernas rectas sin arquear la espalda baja."
         },
         {
           "id": "russian_twist",
-          "nombre": "Russian twist",
-          "repeticiones": "30",
-          "duracionMin": 6,
-          "calorias": 35,
+          "nombre": "Russian Twist",
+          "repeticiones": "20",
+          "duracionMin": 5,
+          "calorias": 50,
           "tipo": "core",
-          "musculos": ["oblicuos"],
-          "instrucciones": "Gira el tronco sin mover las caderas."
+          "musculos": ["core"],
+          "instrucciones": "Gira el torso manteniendo el abdomen firme."
         }
       ]
     },
 
     {
-      "id": "00000000-0000-0000-0000-000000000006",
+      "id": "0006",
       "nombre": "Hombros + Bíceps",
       "colorHex": "#CE93D8",
       "createdAt": "2025-01-06T12:00:00Z",
-      "estado": "Pendiente",
+      "estado": "Planificada",
       "ejercicios": [
         {
           "id": "elevaciones_laterales",
           "nombre": "Elevaciones laterales",
           "repeticiones": "15",
           "duracionMin": 5,
-          "calorias": 35,
+          "calorias": 45,
           "tipo": "fuerza",
           "musculos": ["hombros"],
-          "instrucciones": "Eleva los brazos hasta la altura del hombro sin balancear el cuerpo."
+          "instrucciones": "Eleva los brazos sin subir los trapecios."
         },
         {
           "id": "press_hombro",
           "nombre": "Press de hombro",
           "repeticiones": "12",
           "duracionMin": 6,
-          "calorias": 50,
+          "calorias": 70,
           "tipo": "fuerza",
           "musculos": ["hombros"],
           "instrucciones": "Empuja hacia arriba sin arquear la espalda."
@@ -289,67 +289,67 @@
           "calorias": 40,
           "tipo": "fuerza",
           "musculos": ["biceps"],
-          "instrucciones": "Evita balancear el cuerpo; sube con control."
+          "instrucciones": "Flexiona los codos sin balancear el cuerpo."
         },
         {
           "id": "martillo",
           "nombre": "Curl martillo",
           "repeticiones": "12",
           "duracionMin": 5,
-          "calorias": 45,
+          "calorias": 40,
           "tipo": "fuerza",
           "musculos": ["biceps"],
-          "instrucciones": "Mantén los codos pegados al torso durante el movimiento."
+          "instrucciones": "Mantén las muñecas neutras, subiendo controlado."
         }
       ]
     },
 
     {
-      "id": "00000000-0000-0000-0000-000000000007",
+      "id": "0007",
       "nombre": "Full Body Express",
       "colorHex": "#FFB74D",
       "createdAt": "2025-01-07T12:00:00Z",
-      "estado": "Pendiente",
+      "estado": "Planificada",
       "ejercicios": [
         {
           "id": "sentadilla_goblet",
           "nombre": "Sentadilla Goblet",
-          "repeticiones": "12",
-          "duracionMin": 8,
-          "calorias": 70,
+          "repeticiones": "15",
+          "duracionMin": 7,
+          "calorias": 90,
           "tipo": "fuerza",
           "musculos": ["piernas", "gluteos"],
-          "instrucciones": "Mantén la mancuerna pegada al cuerpo y baja con control."
+          "instrucciones": "Mantén la mancuerna pegada al pecho y baja con control."
         },
         {
           "id": "flexiones",
           "nombre": "Flexiones",
-          "repeticiones": "20",
+          "repeticiones": "15",
           "duracionMin": 5,
           "calorias": 50,
           "tipo": "fuerza",
           "musculos": ["pecho"],
-          "instrucciones": "Activa el abdomen y baja hasta casi tocar el suelo."
+          "instrucciones": "Baja controlado manteniendo el cuerpo alineado."
         },
         {
           "id": "remo_mancuerna",
           "nombre": "Remo con mancuerna",
           "repeticiones": "12",
-          "duracionMin": 7,
-          "calorias": 55,
+          "duracionMin": 6,
+          "calorias": 75,
           "tipo": "fuerza",
           "musculos": ["espalda"],
-          "instrucciones": "Controla la subida y bajada sin girar el torso."
+          "instrucciones": "Lleva la mancuerna hacia la cadera."
         },
         {
           "id": "plancha",
           "nombre": "Plancha",
-          "repeticiones": "3 x 45s",
-          "duracionMin": 5,
-          "calorias": 25,
+          "repeticiones": "3",
+          "duracionMin": 3,
+          "calorias": 30,
           "tipo": "core",
           "musculos": ["core"],
-          "instrucciones": "Mantén el cuerpo recto activando todo el core."
+          "instrucciones": "Aprieta abdomen y glúteos para mantener la postura."
         }
       ]
     }
