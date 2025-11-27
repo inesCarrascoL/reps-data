@@ -1,124 +1,64 @@
 {
   "usuario": {
     "nombre": "Usuario",
-    "edad": 0
+    "edad": 22
   },
   "rutinas": [
-
     {
-      "id": "00000000-0000-0000-0000-000000000001",
-      "nombre": "Piernas y Glúteo Fuerte",
+      "id": "0001",
+      "nombre": "Pierna Fuerte",
       "colorHex": "#E57373",
       "createdAt": "2025-01-01T12:00:00Z",
-      "ejercicios": [
-        {
-          "nombre": "Sentadillas",
-          "repeticiones": 15,
-          "duracionMin": 10,
-          "calorias": 80,
-          "nivel": "medio",
-          "tipo": "fuerza",
-          "musculos": ["cuadriceps", "gluteos"],
-          "estado": "planificado"
-        },
-        {
-          "nombre": "Zancadas",
-          "repeticiones": 12,
-          "duracionMin": 8,
-          "calorias": 60,
-          "nivel": "medio",
-          "tipo": "fuerza",
-          "musculos": ["cuadriceps", "isquios", "gluteos"],
-          "estado": "planificado"
-        },
-        {
-          "nombre": "Hip Thrust",
-          "repeticiones": 12,
-          "duracionMin": 8,
-          "calorias": 70,
-          "nivel": "medio",
-          "tipo": "fuerza",
-          "musculos": ["gluteos"],
-          "estado": "planificado"
-        },
-        {
-          "nombre": "Apertura de glúteos máquina",
-          "repeticiones": 15,
-          "duracionMin": 6,
-          "calorias": 50,
-          "nivel": "facil",
-          "tipo": "fuerza",
-          "musculos": ["gluteos", "abductores"],
-          "estado": "planificado"
-        }
-      ]
+      "estado": "planificada",
+      "ejercicios": ["sentadilla_barra", "zancadas", "hip_thrust", "curl_femoral"]
     },
-
     {
-      "id": "00000000-0000-0000-0000-000000000002",
-      "nombre": "Pecho y Brazos",
-      "colorHex": "#64B5F6",
-      "createdAt": "2025-01-01T12:00:00Z",
-      "ejercicios": [
-        {
-          "nombre": "Flexiones",
-          "repeticiones": 20,
-          "duracionMin": 5,
-          "calorias": 50,
-          "nivel": "facil",
-          "tipo": "fuerza",
-          "musculos": ["pecho", "triceps"],
-          "estado": "planificado"
-        },
-        {
-          "nombre": "Fondos en silla",
-          "repeticiones": 15,
-          "duracionMin": 5,
-          "calorias": 40,
-          "nivel": "facil",
-          "tipo": "fuerza",
-          "musculos": ["triceps"],
-          "estado": "planificado"
-        }
-      ]
+      "id": "0002",
+      "nombre": "Glúteo + Pierna",
+      "colorHex": "#FF8A80",
+      "createdAt": "2025-01-02T12:00:00Z",
+      "estado": "planificada",
+      "ejercicios": ["sentadilla_goblet", "hip_thrust", "apertura_gluteo", "curl_femoral"]
     },
-
     {
-      "id": "00000000-0000-0000-0000-000000000003",
-      "nombre": "Espalda + Core",
+      "id": "0003",
+      "nombre": "Pecho + Tríceps",
+      "colorHex": "#90CAF9",
+      "createdAt": "2025-01-03T12:00:00Z",
+      "estado": "planificada",
+      "ejercicios": ["flexiones", "fondos", "press_banca", "aperturas_mancuernas"]
+    },
+    {
+      "id": "0004",
+      "nombre": "Espalda Completa",
       "colorHex": "#81C784",
-      "createdAt": "2025-01-01T12:00:00Z",
-      "ejercicios": [
-        {
-          "nombre": "Superman Hold",
-          "repeticiones": 3,
-          "duracionMin": 3,
-          "calorias": 30,
-          "nivel": "facil",
-          "tipo": "fuerza",
-          "musculos": ["espalda"],
-          "estado": "planificado"
-        }
-      ]
+      "createdAt": "2025-01-04T12:00:00Z",
+      "estado": "planificada",
+      "ejercicios": ["peso_muerto", "jalon_pecho", "remo_mancuerna", "superman"]
     },
-
     {
-      "id": "00000000-0000-0000-0000-000000000004",
-      "nombre": "HIIT Express 🔥",
+      "id": "0005",
+      "nombre": "Core de Acero",
+      "colorHex": "#FFF176",
+      "createdAt": "2025-01-05T12:00:00Z",
+      "estado": "planificada",
+      "ejercicios": ["plancha", "crunch", "elevaciones_piernas", "russian_twist"]
+    },
+    {
+      "id": "0006",
+      "nombre": "Hombros + Bíceps",
+      "colorHex": "#CE93D8",
+      "createdAt": "2025-01-06T12:00:00Z",
+      "estado": "planificada",
+      "ejercicios": ["elevaciones_laterales", "press_hombro", "curl_biceps", "martillo"]
+    },
+    {
+      "id": "0007",
+      "nombre": "Full Body Express",
       "colorHex": "#FFB74D",
-      "createdAt": "2025-01-01T12:00:00Z",
-      "ejercicios": [
-        {
-          "nombre": "Burpees",
-          "repeticiones": 12,
-          "duracionMin": 5,
-          "calorias": 90,
-          "nivel": "dificil",
-          "tipo": "hiit",
-          "musculos": ["fullbody"],
-          "estado": "planificado"
-        }
-      ]
+      "createdAt": "2025-01-07T12:00:00Z",
+      "estado": "planificada",
+      "ejercicios": ["sentadilla_goblet", "flexiones", "remo_mancuerna", "plancha"]
     }
   ]
 }
